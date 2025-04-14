@@ -8,7 +8,7 @@ I'm an enthusiastic self-learner currently pursuing a Bachelor's degree in BCIS 
 - 🌐 **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js (in progress)  
 - 🔧 **Backend**: Node.js, Express.js, MongoDB, REST APIs (learning now)  
 - 🤖 **AI/ML**: Python, NumPy, Pandas, Matplotlib, Scikit-learn  
-- 🧠 Exploring math foundations like Probability, Linear Algebra & Calculus
+- 🧠 Exploring math foundations like Probability & Statistics, Linear Algebra & Calculus
 
 ---
 
